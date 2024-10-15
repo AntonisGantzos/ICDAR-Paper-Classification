@@ -10,15 +10,14 @@ This project classifies ICDAR 2024 conference papers using natural language proc
 - Libraries:
   - pandas
   - matplotlib
-  - scikit-learn
   - transformers
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/AntonisGantzos/ICDAR-Paper-Classification.git
+   cd ICDAR-Paper-Classification
    
 ## Usage
 - Upload the PDF files to the specified directory.
