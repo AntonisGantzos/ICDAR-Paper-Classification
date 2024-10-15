@@ -9,7 +9,6 @@ This project classifies ICDAR 2024 conference papers using natural language proc
 - Python 3.x
 - Libraries:
   - pandas
-  - matplotlib
   - transformers
   - PyMuPDF
 
@@ -21,8 +20,9 @@ This project classifies ICDAR 2024 conference papers using natural language proc
    cd ICDAR-Paper-Classification
    
 ## Usage
-- Upload the PDF files to the specified directory.
+- For data configutation, execute the code and it will pull and extract the raw version of the zip file containing the pdfs automatically from github.
 - Open the Jupyter Notebook in Jupyter or Google Colab.
+- Install all libraries mentioned in the **Requirements** section
 - Execute the cells sequentially to run the analysis.
 - The classification results and visualizations will be displayed after execution.
 
