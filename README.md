@@ -11,6 +11,7 @@ This project classifies ICDAR 2024 conference papers using natural language proc
   - pandas
   - matplotlib
   - transformers
+  - PyMuPDF
 
 ## Installation
 
