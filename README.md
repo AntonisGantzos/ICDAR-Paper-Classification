@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project classifies ICDAR 2024 conference papers using natural language processing techniques. It extracts titles and authors, preprocesses data, and categorizes documents into predefined classes, using a zero-shot classifier from HuggingFace.
+This project classifies ICDAR 2024 conference papers using natural language processing techniques. For each paper it extracts its title and authors, preprocesses the metadata, and categorizes documents into predefined classes based on it, by implementing a zero-shot classifier from HuggingFace.
 
 ## Requirements
 
