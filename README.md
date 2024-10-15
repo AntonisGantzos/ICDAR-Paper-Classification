@@ -24,7 +24,6 @@ This project classifies ICDAR 2024 conference papers using natural language proc
 - Upload the PDF files to the specified directory.
 - Open the Jupyter Notebook in Jupyter or Google Colab.
 - Execute the cells sequentially to run the analysis.
-- Viewing Results
 - The classification results and visualizations will be displayed after execution.
 
 ## Notes
